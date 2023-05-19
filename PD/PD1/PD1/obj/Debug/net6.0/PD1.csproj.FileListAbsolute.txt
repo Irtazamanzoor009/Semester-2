@@ -1,0 +1,15 @@
+E:\Semester 2\PD\PD1\PD1\bin\Debug\net6.0\PD1.exe
+E:\Semester 2\PD\PD1\PD1\bin\Debug\net6.0\PD1.deps.json
+E:\Semester 2\PD\PD1\PD1\bin\Debug\net6.0\PD1.runtimeconfig.json
+E:\Semester 2\PD\PD1\PD1\bin\Debug\net6.0\PD1.dll
+E:\Semester 2\PD\PD1\PD1\bin\Debug\net6.0\PD1.pdb
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.csproj.AssemblyReference.cache
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.AssemblyInfoInputs.cache
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.AssemblyInfo.cs
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.csproj.CoreCompileInputs.cache
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.dll
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\refint\PD1.dll
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.pdb
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\PD1.genruntimeconfig.cache
+E:\Semester 2\PD\PD1\PD1\obj\Debug\net6.0\ref\PD1.dll
