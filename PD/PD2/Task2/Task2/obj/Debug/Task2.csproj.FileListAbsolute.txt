@@ -1,0 +1,10 @@
+E:\Semester 2-\PD\PD2\Task2\Task2\bin\Debug\Task2.exe.config
+E:\Semester 2-\PD\PD2\Task2\Task2\bin\Debug\Task2.exe
+E:\Semester 2-\PD\PD2\Task2\Task2\bin\Debug\Task2.pdb
+E:\Semester 2-\PD\PD2\Task2\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+E:\Semester 2-\PD\PD2\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+E:\Semester 2-\PD\PD2\Task2\Task2\obj\Debug\Task2.exe
+E:\Semester 2-\PD\PD2\Task2\Task2\obj\Debug\Task2.pdb
+E:\Semester 2-\PD\PD2\Task2\Task2\bin\Debug\EZInput.dll
+E:\Semester 2-\PD\PD2\Task2\Task2\bin\Debug\EZInput.xml
+E:\Semester 2-\PD\PD2\Task2\Task2\obj\Debug\Task2.csproj.CopyComplete
