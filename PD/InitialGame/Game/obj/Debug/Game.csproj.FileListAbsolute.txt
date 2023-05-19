@@ -1,0 +1,17 @@
+E:\Semester 2-\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+E:\Semester 2-\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Semester 2-\Game\Game\bin\Debug\Game.exe.config
+E:\Semester 2-\Game\Game\bin\Debug\Game.exe
+E:\Semester 2-\Game\Game\bin\Debug\Game.pdb
+E:\Semester 2-\Game\Game\obj\Debug\Game.exe
+E:\Semester 2-\Game\Game\obj\Debug\Game.pdb
+E:\Semester 2-\PD\Game\Game\bin\Debug\Game.exe.config
+E:\Semester 2-\PD\Game\Game\bin\Debug\Game.exe
+E:\Semester 2-\PD\Game\Game\bin\Debug\Game.pdb
+E:\Semester 2-\PD\Game\Game\bin\Debug\EZInput.dll
+E:\Semester 2-\PD\Game\Game\bin\Debug\EZInput.xml
+E:\Semester 2-\PD\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+E:\Semester 2-\PD\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Semester 2-\PD\Game\Game\obj\Debug\Game.csproj.CopyComplete
+E:\Semester 2-\PD\Game\Game\obj\Debug\Game.exe
+E:\Semester 2-\PD\Game\Game\obj\Debug\Game.pdb

@@ -1,0 +1,7 @@
+E:\Semester 2-\PD\CRUDBuisnessProject\CRUDBuisnessProject\bin\Debug\CRUDBuisnessProject.exe.config
+E:\Semester 2-\PD\CRUDBuisnessProject\CRUDBuisnessProject\bin\Debug\CRUDBuisnessProject.exe
+E:\Semester 2-\PD\CRUDBuisnessProject\CRUDBuisnessProject\bin\Debug\CRUDBuisnessProject.pdb
+E:\Semester 2-\PD\CRUDBuisnessProject\CRUDBuisnessProject\obj\Debug\CRUDBuisnessProject.csproj.AssemblyReference.cache
+E:\Semester 2-\PD\CRUDBuisnessProject\CRUDBuisnessProject\obj\Debug\CRUDBuisnessProject.csproj.CoreCompileInputs.cache
+E:\Semester 2-\PD\CRUDBuisnessProject\CRUDBuisnessProject\obj\Debug\CRUDBuisnessProject.exe
+E:\Semester 2-\PD\CRUDBuisnessProject\CRUDBuisnessProject\obj\Debug\CRUDBuisnessProject.pdb
