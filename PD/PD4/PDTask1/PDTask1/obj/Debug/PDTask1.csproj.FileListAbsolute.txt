@@ -1,0 +1,7 @@
+E:\Semester 2-\PD\PD4\PDTask1\PDTask1\bin\Debug\PDTask1.exe.config
+E:\Semester 2-\PD\PD4\PDTask1\PDTask1\bin\Debug\PDTask1.exe
+E:\Semester 2-\PD\PD4\PDTask1\PDTask1\bin\Debug\PDTask1.pdb
+E:\Semester 2-\PD\PD4\PDTask1\PDTask1\obj\Debug\PDTask1.csproj.AssemblyReference.cache
+E:\Semester 2-\PD\PD4\PDTask1\PDTask1\obj\Debug\PDTask1.csproj.CoreCompileInputs.cache
+E:\Semester 2-\PD\PD4\PDTask1\PDTask1\obj\Debug\PDTask1.exe
+E:\Semester 2-\PD\PD4\PDTask1\PDTask1\obj\Debug\PDTask1.pdb
