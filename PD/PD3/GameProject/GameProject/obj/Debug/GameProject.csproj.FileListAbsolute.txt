@@ -1,0 +1,10 @@
+E:\Semester 2-\PD\PD3\GameProject\GameProject\bin\Debug\GameProject.exe.config
+E:\Semester 2-\PD\PD3\GameProject\GameProject\bin\Debug\GameProject.exe
+E:\Semester 2-\PD\PD3\GameProject\GameProject\bin\Debug\GameProject.pdb
+E:\Semester 2-\PD\PD3\GameProject\GameProject\obj\Debug\GameProject.csproj.AssemblyReference.cache
+E:\Semester 2-\PD\PD3\GameProject\GameProject\obj\Debug\GameProject.csproj.CoreCompileInputs.cache
+E:\Semester 2-\PD\PD3\GameProject\GameProject\obj\Debug\GameProject.exe
+E:\Semester 2-\PD\PD3\GameProject\GameProject\obj\Debug\GameProject.pdb
+E:\Semester 2-\PD\PD3\GameProject\GameProject\bin\Debug\EZInput.dll
+E:\Semester 2-\PD\PD3\GameProject\GameProject\bin\Debug\EZInput.xml
+E:\Semester 2-\PD\PD3\GameProject\GameProject\obj\Debug\GameProject.csproj.CopyComplete
