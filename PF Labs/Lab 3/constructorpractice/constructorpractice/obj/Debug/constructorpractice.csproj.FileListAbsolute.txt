@@ -1,0 +1,7 @@
+E:\Semester 2-\OOP Tasks\Week 3\constructorpractice\constructorpractice\bin\Debug\constructorpractice.exe.config
+E:\Semester 2-\OOP Tasks\Week 3\constructorpractice\constructorpractice\bin\Debug\constructorpractice.exe
+E:\Semester 2-\OOP Tasks\Week 3\constructorpractice\constructorpractice\bin\Debug\constructorpractice.pdb
+E:\Semester 2-\OOP Tasks\Week 3\constructorpractice\constructorpractice\obj\Debug\constructorpractice.csproj.AssemblyReference.cache
+E:\Semester 2-\OOP Tasks\Week 3\constructorpractice\constructorpractice\obj\Debug\constructorpractice.csproj.CoreCompileInputs.cache
+E:\Semester 2-\OOP Tasks\Week 3\constructorpractice\constructorpractice\obj\Debug\constructorpractice.exe
+E:\Semester 2-\OOP Tasks\Week 3\constructorpractice\constructorpractice\obj\Debug\constructorpractice.pdb

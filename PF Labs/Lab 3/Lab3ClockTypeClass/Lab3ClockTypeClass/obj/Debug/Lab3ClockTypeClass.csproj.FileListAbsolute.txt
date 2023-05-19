@@ -1,0 +1,7 @@
+E:\Semester 2-\OOP Tasks\Week 3\Lab3ClockTypeClass\Lab3ClockTypeClass\bin\Debug\Lab3ClockTypeClass.exe.config
+E:\Semester 2-\OOP Tasks\Week 3\Lab3ClockTypeClass\Lab3ClockTypeClass\bin\Debug\Lab3ClockTypeClass.exe
+E:\Semester 2-\OOP Tasks\Week 3\Lab3ClockTypeClass\Lab3ClockTypeClass\bin\Debug\Lab3ClockTypeClass.pdb
+E:\Semester 2-\OOP Tasks\Week 3\Lab3ClockTypeClass\Lab3ClockTypeClass\obj\Debug\Lab3ClockTypeClass.csproj.AssemblyReference.cache
+E:\Semester 2-\OOP Tasks\Week 3\Lab3ClockTypeClass\Lab3ClockTypeClass\obj\Debug\Lab3ClockTypeClass.csproj.CoreCompileInputs.cache
+E:\Semester 2-\OOP Tasks\Week 3\Lab3ClockTypeClass\Lab3ClockTypeClass\obj\Debug\Lab3ClockTypeClass.exe
+E:\Semester 2-\OOP Tasks\Week 3\Lab3ClockTypeClass\Lab3ClockTypeClass\obj\Debug\Lab3ClockTypeClass.pdb

@@ -1,0 +1,7 @@
+C:\Users\IRTAZA MANZOOR\source\repos\ClockTypeChallenge1\ClockTypeChallenge1\bin\Debug\ClockTypeChallenge1.exe.config
+C:\Users\IRTAZA MANZOOR\source\repos\ClockTypeChallenge1\ClockTypeChallenge1\bin\Debug\ClockTypeChallenge1.exe
+C:\Users\IRTAZA MANZOOR\source\repos\ClockTypeChallenge1\ClockTypeChallenge1\bin\Debug\ClockTypeChallenge1.pdb
+C:\Users\IRTAZA MANZOOR\source\repos\ClockTypeChallenge1\ClockTypeChallenge1\obj\Debug\ClockTypeChallenge1.csproj.AssemblyReference.cache
+C:\Users\IRTAZA MANZOOR\source\repos\ClockTypeChallenge1\ClockTypeChallenge1\obj\Debug\ClockTypeChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\IRTAZA MANZOOR\source\repos\ClockTypeChallenge1\ClockTypeChallenge1\obj\Debug\ClockTypeChallenge1.exe
+C:\Users\IRTAZA MANZOOR\source\repos\ClockTypeChallenge1\ClockTypeChallenge1\obj\Debug\ClockTypeChallenge1.pdb
