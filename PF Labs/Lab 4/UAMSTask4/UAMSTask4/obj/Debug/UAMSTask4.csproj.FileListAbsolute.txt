@@ -1,0 +1,14 @@
+E:\Semester 2-\OOP Lab\Lab 4\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.csproj.AssemblyReference.cache
+E:\Semester 2-\OOP Lab\Lab 4\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.csproj.CoreCompileInputs.cache
+E:\Semester 2-\OOP Lab\Lab 4\UAMSTask4\UAMSTask4\bin\Debug\UAMSTask4.exe.config
+E:\Semester 2-\OOP Lab\Lab 4\UAMSTask4\UAMSTask4\bin\Debug\UAMSTask4.exe
+E:\Semester 2-\OOP Lab\Lab 4\UAMSTask4\UAMSTask4\bin\Debug\UAMSTask4.pdb
+E:\Semester 2-\OOP Lab\Lab 4\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.exe
+E:\Semester 2-\OOP Lab\Lab 4\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.csproj.AssemblyReference.cache
+C:\Users\IRTAZA MANZOOR\Desktop\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.csproj.CoreCompileInputs.cache
+C:\Users\IRTAZA MANZOOR\Desktop\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.exe
+C:\Users\IRTAZA MANZOOR\Desktop\UAMSTask4\UAMSTask4\obj\Debug\UAMSTask4.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\UAMSTask4\UAMSTask4\bin\Debug\UAMSTask4.exe.config
+C:\Users\IRTAZA MANZOOR\Desktop\UAMSTask4\UAMSTask4\bin\Debug\UAMSTask4.exe
+C:\Users\IRTAZA MANZOOR\Desktop\UAMSTask4\UAMSTask4\bin\Debug\UAMSTask4.pdb
