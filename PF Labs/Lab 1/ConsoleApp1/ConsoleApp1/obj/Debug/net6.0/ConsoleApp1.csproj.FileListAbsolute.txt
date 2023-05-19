@@ -1,0 +1,30 @@
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\IRTAZA MANZOOR\Desktop\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\Semester 2\OOP Tasks\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
