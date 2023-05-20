@@ -1,0 +1,7 @@
+E:\Semester 2-\OOP Lab\Lab 6\UMS3Tier\UMS3Tier\bin\Debug\UMS3Tier.exe.config
+E:\Semester 2-\OOP Lab\Lab 6\UMS3Tier\UMS3Tier\bin\Debug\UMS3Tier.exe
+E:\Semester 2-\OOP Lab\Lab 6\UMS3Tier\UMS3Tier\bin\Debug\UMS3Tier.pdb
+E:\Semester 2-\OOP Lab\Lab 6\UMS3Tier\UMS3Tier\obj\Debug\UMS3Tier.csproj.AssemblyReference.cache
+E:\Semester 2-\OOP Lab\Lab 6\UMS3Tier\UMS3Tier\obj\Debug\UMS3Tier.csproj.CoreCompileInputs.cache
+E:\Semester 2-\OOP Lab\Lab 6\UMS3Tier\UMS3Tier\obj\Debug\UMS3Tier.exe
+E:\Semester 2-\OOP Lab\Lab 6\UMS3Tier\UMS3Tier\obj\Debug\UMS3Tier.pdb
