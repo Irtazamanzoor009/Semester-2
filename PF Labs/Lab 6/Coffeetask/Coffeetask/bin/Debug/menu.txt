@@ -1,2 +1,0 @@
-coc,drink,20
-pizza,food,30

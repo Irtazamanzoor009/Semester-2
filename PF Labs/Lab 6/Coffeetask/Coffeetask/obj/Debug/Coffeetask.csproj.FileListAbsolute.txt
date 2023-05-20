@@ -1,7 +1,0 @@
-E:\Semester 2-\OOP Lab\Lab 6\Coffeetask\Coffeetask\bin\Debug\Coffeetask.exe.config
-E:\Semester 2-\OOP Lab\Lab 6\Coffeetask\Coffeetask\bin\Debug\Coffeetask.exe
-E:\Semester 2-\OOP Lab\Lab 6\Coffeetask\Coffeetask\bin\Debug\Coffeetask.pdb
-E:\Semester 2-\OOP Lab\Lab 6\Coffeetask\Coffeetask\obj\Debug\Coffeetask.csproj.AssemblyReference.cache
-E:\Semester 2-\OOP Lab\Lab 6\Coffeetask\Coffeetask\obj\Debug\Coffeetask.csproj.CoreCompileInputs.cache
-E:\Semester 2-\OOP Lab\Lab 6\Coffeetask\Coffeetask\obj\Debug\Coffeetask.exe
-E:\Semester 2-\OOP Lab\Lab 6\Coffeetask\Coffeetask\obj\Debug\Coffeetask.pdb
